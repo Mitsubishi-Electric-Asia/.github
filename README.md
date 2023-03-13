@@ -1,4 +1,4 @@
-![Mitsubishi Electric Singapore]()
+![Mitsubishi Electric Singapore](images/genimage.jpg)
 
 ## Welcome to Mitsubishi Electric Singpaore Github.
 
