@@ -1,6 +1,6 @@
 ![Mitsubishi Electric Singapore]()
 
-## Mitsubishi Electric Singpaore is committed to open source.
+## Welcome to Mitsubishi Electric Singpaore Github.
 
 Software built by our developers for the community. Mitsubishi electric is a global leader in factotry automation solutions.
 
