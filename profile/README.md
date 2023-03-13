@@ -1,10 +1,10 @@
-![Mitsubishi Electric Singapore](images/logo.jpeg)
+![Mitsubishi Electric Singapore](https://github.com/Mitsubishi-Electric-Asia/.github/blob/main/profile/images/logo.jpeg)
 
 ## Welcome to Mitsubishi Electric Asia Github.
 
 Software built by our developers for the community. Mitsubishi electric is a global leader in factotry automation solutions.
 
-## Learn more about Mitsubihsi Electric Asia
+## Learn more about Mitsubishi Electric Asia
 
 * [Check out our youtube channel](https://www.youtube.com/channel/UCkDaGvT5PvALPg9sjhVEusA)
 * [Explore our catalog](https://sg.mitsubishielectric.com/fa/en/)
