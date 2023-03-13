@@ -1,4 +1,4 @@
-![Mitsubishi Electric Singapore]()
+![Mitsubishi Electric Singapore](images/genimage.jpg)
 
 ## Mitsubishi Electric Singpaore is committed to open source.
 
