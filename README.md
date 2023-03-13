@@ -1,6 +1,6 @@
 ![Mitsubishi Electric Singapore](images/genimage.jpg)
 
-## Welcome to Mitsubishi Electric Singpaore Github.
+## Welcome to Mitsubishi Electric Singapore Github.
 
 Software built by our developers for the community. Mitsubishi electric is a global leader in factotry automation solutions.
 
