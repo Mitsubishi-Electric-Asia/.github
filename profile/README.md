@@ -1,5 +1,3 @@
-## You are viewing members page.
-
 ## Welcome to Mitsubishi Electric Asia Github.
 Mitsubishi Electric Asia is a subsidiary of Mitsubishi Electric Corporation, a world-leading manufacturer of products ranging from home electronics, industrial and factory automation, semiconductors and devices, public utility systems, and defense and space systems. Since establishment in 1977, Mitsubishi Electric Asia has been providing reliable, high-quality products to homes, businesses and industries in Asia Pacific.
 
