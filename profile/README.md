@@ -8,8 +8,8 @@ At Mitsubishi Electric Asia, we will contribute to the realisation of a vibrant 
 
 ## Learn more about Mitsubishi Electric Asia
 
-* [Check out our youtube channel](https://www.youtube.com/channel/UCkDaGvT5PvALPg9sjhVEusA)
-* [Explore our catalog](https://sg.mitsubishielectric.com/fa/en/)
+* [Check out our YouTube channel](https://www.youtube.com/channel/UCkDaGvT5PvALPg9sjhVEusA)
+* [Explore our catalogue](https://sg.mitsubishielectric.com/fa/en/)
 * [Download our e-manuals](https://www.mitsubishielectric.com/app/fa/download/search.do?mode=manual#)
 * [Easy to follow video tutorials](https://www.youtube.com/@MitsubishiFAEU/playlists)
 
