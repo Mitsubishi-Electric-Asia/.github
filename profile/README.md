@@ -1,5 +1,12 @@
 ## Welcome to Mitsubishi Electric Asia Github page.
 
+**Notice: Repository Migration (Effective Oct 1)**
+
+As of October 1, the MELFA ROS2 Driver has moved to the official Mitsubishi Electric GitHub organization. Please access the new page here: https://github.com/MitsubishiElectric
+
+<img width="531" height="126" alt="image" src="https://github.com/user-attachments/assets/55918514-6ef2-45aa-81ff-b1a363a1cb20" />
+
+
 Mitsubishi Electric Asia is a subsidiary of Mitsubishi Electric Corporation, a world-leading manufacturer of products ranging from home electronics, industrial and factory automation, semiconductors and devices, public utility systems, and defense and space systems. Since establishment in 1977, Mitsubishi Electric Asia has been providing reliable, high-quality products to homes, businesses and industries in Asia Pacific.
 
 Located in Singapore, we seek to be established as a marketing and engineering hub with our well-networked and strategic presence in the region.
